@@ -1,4 +1,6 @@
 Video Demo: https://lnkd.in/gwjq_FSe
+
+
 On March 8th 2025, I participated in my first-ever hackathon, HackMercedX, and I’m proud to share that out of 120 participants,
 my team and I won the Alumni Prize for our project, CreditCompass! 🏆
 
